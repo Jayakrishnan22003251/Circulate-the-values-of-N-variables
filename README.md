@@ -27,7 +27,7 @@ End the program
      l=eval(input())
      n=eval(input())
 ## Output:
-     ![image (14)](https://user-images.githubusercontent.com/120232371/213703327-1111be7e-48d1-4975-81d9-87a07558a808.png)
+ ![image (14)](https://user-images.githubusercontent.com/120232371/213703327-1111be7e-48d1-4975-81d9-87a07558a808.png)
 
 
 ## Result:
